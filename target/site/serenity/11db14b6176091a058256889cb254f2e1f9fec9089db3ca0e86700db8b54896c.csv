@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Agregar productos al carrito de compras en la categoría ""Agradecimientos""","Productos categoría agradecimientos","SUCCESS","2024-09-09T10:09:13.2917865-05:00[America/Bogota]","0.0","60.45"
+"Agregar productos al carrito de compras en la categoría ""Agradecimientos""","Añadir dos productos de la categoría Agradecimientos al carrito de compras","SUCCESS","2024-09-09T10:10:14.1026392-05:00[America/Bogota]","0.0","30.92"
+"Agregar productos al carrito de compras en la categoría ""Agradecimientos""","Validar que los productos se muestran correctamente en la opción Carro","SUCCESS","2024-09-09T10:10:45.5424608-05:00[America/Bogota]","0.0","47.74"

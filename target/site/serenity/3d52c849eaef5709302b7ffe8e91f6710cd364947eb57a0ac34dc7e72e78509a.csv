@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validar los servicios web de Reqres","Listar usuarios","SUCCESS","2024-09-09T10:19:28.5492654-05:00[America/Bogota]","0.0","3.31"
+"Validar los servicios web de Reqres","Crear un nuevo usuario","SUCCESS","2024-09-09T10:19:31.8880056-05:00[America/Bogota]","0.0","2.14"
+"Validar los servicios web de Reqres","Actualizar un usuario existente","SUCCESS","2024-09-09T10:19:34.0406993-05:00[America/Bogota]","0.0","0.65"
+"Validar los servicios web de Reqres","Eliminar un usuario existente","SUCCESS","2024-09-09T10:19:34.7066061-05:00[America/Bogota]","0.0","0.55"
